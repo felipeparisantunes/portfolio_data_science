@@ -15,7 +15,7 @@
 ## Projetos:
 Alguns Projetos realizados:
 
-* **1** 
+* **1** Analisando Dados AirBnB de Buenos Aires (Agentina) -https://github.com/felipeparisantunes/portfolio_data_science/blob/22aca255afbada0c6131eac1ba4d54e2d95e3034/Analisando_os_Dados_do_Airbnb_Buenos_Aires.ipynb
 ---
 
 
