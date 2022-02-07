@@ -7,12 +7,10 @@
 # Felipe Paris Antunes
 <sub>*Analista de Business Intelligence* e Aspirante a Cientista de Dadosr</sub>
 
-...
-
-**Background in:** Business Intelligence, Contabilidade e Controladoria, Python e Data Science.
+**Competências:** Business Intelligence, Contabilidade e Controladoria, Python e Data Science.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/)
+* [LinkedIn](https://www.linkedin.com/in/felipe-paris-antunes-896a79197/)
 
 ## Projetos:
 Alguns Projetos realizados:
