@@ -3,7 +3,7 @@
 </p>
 
 # Felipe Paris Antunes
-<sub>*Analista de Business Intelligence* e Aspirante a Cientista de Dadosr</sub>
+<sub>*Analista de Business Intelligence e Aspirante a Cientista de Dados*</sub>
 
 **Competências:** Business Intelligence, Contabilidade e Controladoria, Python e Data Science.
 
