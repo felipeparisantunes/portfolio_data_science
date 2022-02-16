@@ -16,6 +16,9 @@
 Alguns Projetos realizados:
 
 * **1 -** Analisando Dados AirBnB de Buenos Aires (Agentina) -https://github.com/felipeparisantunes/portfolio_data_science/blob/22aca255afbada0c6131eac1ba4d54e2d95e3034/Analisando_os_Dados_do_Airbnb_Buenos_Aires.ipynb
+* **2 -** Dados da Covid-19 Panorama Brasil e Mundo -
+https://github.com/felipeparisantunes/portfolio_data_science/blob/958466fe271c046e7203f612e3bc68cd850f12b3/Panorama_do_COVID_19_no_Brasil.ipynb
+
 
 
 
